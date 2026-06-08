@@ -10,7 +10,7 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 - Exploring AI integration with web applications
 - Improving problem-solving and software design skills
 
-## Tech Stack & Tools
+## Tech Stack
 - Frontend
 - Backend
 - Database
@@ -20,14 +20,7 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 - GitHub
 - Postman
 - VS Code
-
-### Core Concepts
-- Authentication & Authorization
-- CRUD Operations
-- API Integration
-- MVC Architecture
-- Responsive Web Design
-
+  
 ## How to Reach Me
 
 - Email: abhijith513226@gmail.com
