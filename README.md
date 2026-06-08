@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Abhijith E
 
-💻 Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
 I enjoy building scalable web applications, RESTful APIs, and AI-powered solutions while continuously learning modern web technologies.
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - Enhancing my Full Stack Development skills
 - Building MERN Stack projects and REST APIs
@@ -13,14 +13,10 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend
-
-
-### Backend
-
-### Database
-
-
+- Frontend
+- Backend
+- Database
+- 
 ### Tools & Platforms
 - Git
 - GitHub
@@ -34,7 +30,7 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 - MVC Architecture
 - Responsive Web Design
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - Email: abhijith513226@gmail.com
 - LinkedIn: www.linkedin.com/in/e-abhijith
