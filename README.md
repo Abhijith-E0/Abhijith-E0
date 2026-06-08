@@ -11,7 +11,6 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 - Improving problem-solving and software design skills
 
 ## Tech Stack & Tools
-
 - Frontend
 - Backend
 - Database
