@@ -14,21 +14,12 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful APIs
 
 ### Database
-- MongoDB
-- Mongoose
-- SQL
+
 
 ### Tools & Platforms
 - Git
@@ -42,20 +33,6 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 - API Integration
 - MVC Architecture
 - Responsive Web Design
-
-## 📂 Featured Projects
-
-### 🤖 AI Assistant Chatbot
-AI-powered coding assistant built using React.js, Node.js, Express.js, MongoDB, and LLM APIs.
-
-### 🛒 E-Commerce Web Application
-Full-stack e-commerce platform featuring authentication, product management, shopping cart, and secure checkout.
-
-### ✅ Task Management System
-Task tracking application with user authentication, role-based access control, and responsive dashboards.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and achievements.
 
 ## 📫 How to Reach Me
 
