@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhijith E
 
-<!--
-**Abhijith-E0/Abhijith-E0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-Here are some ideas to get you started:
+I enjoy building scalable web applications, RESTful APIs, and AI-powered solutions while continuously learning modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- Enhancing my Full Stack Development skills
+- Building MERN Stack projects and REST APIs
+- Exploring AI integration with web applications
+- Improving problem-solving and software design skills
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- RESTful APIs
+
+### Database
+- MongoDB
+- Mongoose
+- SQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+
+### Core Concepts
+- Authentication & Authorization
+- CRUD Operations
+- API Integration
+- MVC Architecture
+- Responsive Web Design
+
+## 📫 How to Reach Me
+
+- Email: abhijith513226@gmail.com
+- LinkedIn: www.linkedin.com/in/e-abhijith
+
+## 📈 GitHub Stats
+
+Always learning, building, and contributing to create impactful software solutions.
