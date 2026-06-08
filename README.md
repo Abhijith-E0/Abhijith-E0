@@ -25,7 +25,3 @@ I enjoy building scalable web applications, RESTful APIs, and AI-powered solutio
 
 - Email: abhijith513226@gmail.com
 - LinkedIn: www.linkedin.com/in/e-abhijith
-
-## 📈 GitHub Stats
-
-Always learning, building, and contributing to create impactful software solutions.
